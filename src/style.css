@@ -1,0 +1,22 @@
+/* title style */
+.red {
+    color : red
+}
+
+.title{
+    font-size: 50px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.blue{
+    color: blue;
+}
+
+.green{
+    color :aqua
+}
+
+.image{
+    height: 300px;
+    width: 600px;
+}
