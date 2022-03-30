@@ -7,7 +7,7 @@ function App() {
       <div style={{"border":"solid 1px black","max-width":"100vw"}}>
         <h1 class="title red">Sarah Mz</h1>
         <h1 class="title blue">Sarah Mz</h1>
-        <h1 class="title green">Sarah Mz</h1>
+        <h1 class="title aqua">Sarah Mz</h1>
         <br />
         <img class="image" src={imageInSrc} alt='src' />
         <br />
